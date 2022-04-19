@@ -120,3 +120,15 @@ ssl.google-analytics.com
 google-analytics.com
 googleadservices.com
 pagead2.googleadservices.com
+analytics.pointdrive.linkedin.com
+app.getsentry.com
+browser.sentry-cdn.com
+stats.wp.com
+extmaps-api.yandex.net
+analytics.mobile.yandex.net
+yandexadexchange.net
+data.mistat.rus.xiaomi.com
+data.mistat.intl.xiaomi.com
+metrics5.data.hicloud.com 
+logservice.hicloud.com
+click.oneplus.cn
