@@ -132,3 +132,6 @@ data.mistat.intl.xiaomi.com
 metrics5.data.hicloud.com 
 logservice.hicloud.com
 click.oneplus.cn
+https://samsung-com.112.2o7.net
+https://metrics1.data.hicloud.com
+https://browser.sentry-cdn.com
